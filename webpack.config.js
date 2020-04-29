@@ -2,7 +2,7 @@ const WebpackPwaManifest = require("webpack-pwa-manifest");
 const path = require("path");
 
 const config = {
-  mode: "production",
+  mode: "development",
   devtool: "source-map",
   entry: "./public/assets/js/index.js",
   output: {
