@@ -16,7 +16,7 @@ const config = {
       name: "Budget Tracker",
       short_name: "Budget Tracker",
       description: "An application for tracking your budget",
-      background_color: "#01579b",
+      background_color: "#33C7FF",
       theme_color: "#ffffff",
       start_url: "/",
       icons: [{
