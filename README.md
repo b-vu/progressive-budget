@@ -2,7 +2,9 @@
 
 ## Description
     
-A progressive web application (PWA) budget tracker with offline functionality! This project utilizes caching, web manifests, service workers, webpack, and Babel to deliver an efficient and flexible budget tracking application. If you happen to be offline, you can still enter any transaction and it will be registered in the IndexedDB API store. Once back online, the budget tracker will check IndexedDB for any pending transactions when you were offline and automatically update your budget in the Mongo database. Amazing stuff!
+A progressive web application (PWA) budget tracker with offline functionality! This project utilizes caching, web manifests, service workers, webpack, and Babel to deliver an efficient and flexible budget tracking application. If you happen to be offline, you can still enter any transaction and it will be registered in the IndexedDB API store. Once back online, the budget tracker will check IndexedDB for any pending transactions when you were offline and automatically update your budget in the Mongo database.
+
+Check out the project on [Heroku](https://calm-mesa-22899.herokuapp.com/)!
 
 ## Credits
     
